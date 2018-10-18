@@ -1,12 +1,16 @@
 import React, { Component } from 'react';
 import './App.css';
 import {PageHeader, Grid, Row, Col} from 'react-bootstrap'
-import cards from './cards.json'
+import cardsList from './cards.json'
 import Card from './Components/Card'
 
 
 
 class App extends Component {
+  state = {
+    cards: cardsList
+  }
+
   render() {
     return (
       <Grid>
@@ -16,7 +20,7 @@ class App extends Component {
           </PageHeader>
         </Row>
         <Row>
-          {cards.map(card=>(
+          {this.state.cards.map(card=>(
             <Col xs={6} md={2}>
               <Card playingCard={card} />
             </Col>
