@@ -17,7 +17,7 @@ class App extends Component {
         </Row>
         <Row>
           {cards.map(card=>(
-            <Col xs={6} md={4}>
+            <Col xs={6} md={2}>
               <Card playingCard={card} />
             </Col>
           ))}
