@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "imagePath": "./assets/jack_of_clubs2.png"
+    },
+    {
+      "id": 2,
+      "imagePath": "./assets/jack_of_diamonds2.png"
+    },
+    {
+      "id": 3,
+      "imagePath": "./assets/jack_of_hearts2.png"
+    },
+    {
+      "id": 4,
+      "imagePath": "./assets/jack_of_spades2.png"
+    },
+    {
+      "id": 5,
+      "imagePath": "./assets/king_of_clubs2.png"
+    },
+    {
+      "id": 6,
+      "imagePath": "./assets/king_of_diamonds2.png"
+    },
+    {
+      "id": 7,
+      "imagePath": "./assets/king_of_hearts2.png"
+    },
+    {
+      "id": 8,
+      "imagePath": "./assets/king_of_spades2.png"
+    },
+    {
+      "id": 9,
+      "imagePath": "./assets/queen_of_clubs2.png"
+    },
+    {
+      "id": 10,
+      "imagePath": "./assets/queen_of_diamonds2.png"
+    },
+    {
+      "id": 11,
+      "imagePath": "./assets/queen_of_hearts2.png"
+    },
+    {
+      "id": 12,
+      "imagePath": "./assets/queen_of_spades2.png"
+    }
+  ]
+  
