@@ -9,11 +9,13 @@ var d3 = require("d3-array")
 
 class App extends Component {
   state = {
-    cards: cardsList
+    cards: cardsList,
+    score: 0,
+    highScore: 0
   }
 
-  shuffleCards() {
-    console.log("shuffling the cards")
+  shuffleCards(clickedCard) {
+    //this code stores the array, updates the clickedCard, shuffles the entire array, and sets the new array in state
     let cards = this.state.cards
     cards = d3.shuffle(cards)
     this.setState(cards)

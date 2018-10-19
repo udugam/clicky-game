@@ -1,51 +1,63 @@
 [
     {
       "id": 1,
-      "imagePath": "./assets/jack_of_clubs2.png"
+      "imagePath": "./assets/jack_of_clubs2.png",
+      "clicked": false
     },
     {
       "id": 2,
-      "imagePath": "./assets/jack_of_diamonds2.png"
+      "imagePath": "./assets/jack_of_diamonds2.png",
+      "clicked": false
     },
     {
       "id": 3,
-      "imagePath": "./assets/jack_of_hearts2.png"
+      "imagePath": "./assets/jack_of_hearts2.png",
+      "clicked": false
     },
     {
       "id": 4,
-      "imagePath": "./assets/jack_of_spades2.png"
+      "imagePath": "./assets/jack_of_spades2.png",
+      "clicked": false
     },
     {
       "id": 5,
-      "imagePath": "./assets/king_of_clubs2.png"
+      "imagePath": "./assets/king_of_clubs2.png",
+      "clicked": false
     },
     {
       "id": 6,
-      "imagePath": "./assets/king_of_diamonds2.png"
+      "imagePath": "./assets/king_of_diamonds2.png",
+      "clicked": false
     },
     {
       "id": 7,
-      "imagePath": "./assets/king_of_hearts2.png"
+      "imagePath": "./assets/king_of_hearts2.png",
+      "clicked": false
     },
     {
       "id": 8,
-      "imagePath": "./assets/king_of_spades2.png"
+      "imagePath": "./assets/king_of_spades2.png",
+      "clicked": false
     },
     {
       "id": 9,
-      "imagePath": "./assets/queen_of_clubs2.png"
+      "imagePath": "./assets/queen_of_clubs2.png",
+      "clicked": false
     },
     {
       "id": 10,
-      "imagePath": "./assets/queen_of_diamonds2.png"
+      "imagePath": "./assets/queen_of_diamonds2.png",
+      "clicked": false
     },
     {
       "id": 11,
-      "imagePath": "./assets/queen_of_hearts2.png"
+      "imagePath": "./assets/queen_of_hearts2.png",
+      "clicked": false
     },
     {
       "id": 12,
-      "imagePath": "./assets/queen_of_spades2.png"
+      "imagePath": "./assets/queen_of_spades2.png",
+      "clicked": false
     }
   ]
   
