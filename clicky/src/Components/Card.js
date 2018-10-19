@@ -8,7 +8,7 @@ class Card extends Component {
 
     render(props) {
         return(
-            <Image src={this.props.playingCard.imagePath} alt="playing Card" responsive/> 
+            <Image onClick={() => this.props.shuffleCards()} src={this.props.playingCard.imagePath} alt="playing Card" responsive/> 
         )
     }
 }
